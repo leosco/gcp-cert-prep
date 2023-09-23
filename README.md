@@ -11,6 +11,8 @@
 - https://quizlet.com/434288229/gcp-assoc-engineeer-flash-card-set-4-flash-cards/
 - https://cloud.google.com/learn/certification/cloud-engineer
 
+- when in doubt https://cloud.google.com/docs/
+
 ### Disorganized, incomplete, maybe not entirely accurate notes
 
 **Cloud Storage**
