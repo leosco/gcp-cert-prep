@@ -4,12 +4,14 @@
 
 ### Links
 
-- https://www.udemy.com/course/latest-gcp-ace-google-associate-cloud-engineer-practice-exams-tests/
+- https://www.udemy.com/course/latest-gcp-ace-google-associate-cloud-engineer-practice-exams-tests/?couponCode=NVDPRODUSV220
 - https://quizlet.com/434285600/gcp-assoc-engineeer-flash-card-set-1-flash-cards/
 - https://quizlet.com/434286726/gcp-assoc-engineeer-flash-card-set-2-flash-cards/
 - https://quizlet.com/434287399/gcp-assoc-engineeer-flash-card-set-3-flash-cards/
 - https://quizlet.com/434288229/gcp-assoc-engineeer-flash-card-set-4-flash-cards/
 - https://cloud.google.com/learn/certification/cloud-engineer
+- https://www.cloudskillsboost.google/paths/11
+- https://www.webassessor.com/wa.do?page=enterCatalog&branding=GOOGLECLOUD
 
 - when in doubt https://cloud.google.com/docs/
 
